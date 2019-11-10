@@ -1,4 +1,4 @@
-# instainfo
+# InstaInfo README
 gather information about instagram profiles
 
 ## Usage
