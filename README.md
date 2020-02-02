@@ -1,7 +1,9 @@
 # InstaInfo README
-gather information about instagram profiles
+
+Gather Information about Instagram Profiles
 
 ## Usage
+
 ```python
 # example script showing how to use instainfo
 
@@ -25,7 +27,7 @@ else:
 # requesting info about an user
 profileInfo = insta.getInfo("google")
 
-# accessing single attributes (full list at website.com/instaattrlist)
+# accessing single attributes
 print(profileInfo.full_name)
 print(profileInfo.biography)
 print(profileInfo.profile_pic_url_hd)
